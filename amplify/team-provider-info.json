@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pickers-dev-123031-authRole",
+      "UnauthRoleArn": "arn:aws:iam::446390281866:role/amplify-pickers-dev-123031-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::446390281866:role/amplify-pickers-dev-123031-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-pickers-dev-123031-deployment",
+      "UnauthRoleName": "amplify-pickers-dev-123031-unauthRole",
+      "StackName": "amplify-pickers-dev-123031",
+      "StackId": "arn:aws:cloudformation:us-west-2:446390281866:stack/amplify-pickers-dev-123031/3441fb60-3208-11ed-9186-06c1d729b319",
+      "AmplifyAppId": "d3tdmwgxflgyaj"
+    },
+    "categories": {
+      "auth": {
+        "pickers": {}
+      }
+    }
+  }
+}

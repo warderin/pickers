@@ -1,0 +1,12 @@
+{
+  "resourceName": "s3pickersstorage84b10149",
+  "bucketName": "pickers-storage-84b10149",
+  "policyUUID": "1023ee77",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}
