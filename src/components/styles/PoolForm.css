@@ -1,0 +1,38 @@
+#pool-form {
+  position: fixed;
+  z-index: 100;
+  background-color: white;
+  border-radius: 20px;
+  border: 3px solid var(--amplify-components-button-primary-background-color);
+  width: 500px;
+  left: 50%;
+  transform: translate(-50%, 0);
+  top: 150px;
+  padding: 30px;
+}
+.sport-logo {
+  width: 60px;
+  height: 60px;
+}
+
+.sport-btn {
+  margin: 10px 0px;
+  padding: 15px;
+  border-color: var(--amplify-components-button-primary-background-color);
+  font-weight: 300px;
+}
+
+.close-modal {
+  position: absolute;
+  right: 30px;
+  top: 30px;
+  cursor: pointer;
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+.label {
+  margin: 15px 0 0 0;
+}

@@ -1,0 +1,9 @@
+.landing-bg {
+  filter: brightness(50%);
+}
+
+.btn-2 {
+  background-color: var(--amplify-components-button-primary-background-color);
+  border-color: var(--amplify-components-button-primary-background-color);
+  color: white;
+}
